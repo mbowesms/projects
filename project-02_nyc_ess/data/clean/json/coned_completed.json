@@ -1,0 +1,112 @@
+{
+    "EnerNOC, Inc.": {
+        "developer": "EnerNOC, Inc.",
+        "coned_id": "MC-372959",
+        "borough": "Brooklyn",
+        "zipcode": "10001",
+        "substation": "Brownsville_2",
+        "power_kw": "2475",
+        "application_date": "2018-09-14",
+        "final_loa_date": "2019-07-01",
+        "project_complete": "Yes"
+    },
+    "EnerNOC": {
+        "developer": "EnerNOC",
+        "coned_id": "MC-352787",
+        "borough": "Brooklyn",
+        "zipcode": "10001",
+        "substation": "Brownsville_2",
+        "power_kw": "2475",
+        "application_date": "2018-06-04",
+        "final_loa_date": "2019-07-01",
+        "project_complete": "Yes"
+    },
+    "Green Power Solutions": {
+        "developer": "Green Power Solutions",
+        "coned_id": "MC-297318",
+        "borough": "Bronx",
+        "zipcode": "10471",
+        "substation": "Sherman_Creek",
+        "power_kw": "133",
+        "application_date": "2017-08-18",
+        "final_loa_date": "2018-11-29",
+        "project_complete": "Yes"
+    },
+    "Demand Energy Networks": {
+        "developer": "Demand Energy Networks",
+        "coned_id": "1312777",
+        "borough": "Manhattan",
+        "zipcode": "10007",
+        "substation": "Leonard_St_2",
+        "power_kw": "200",
+        "application_date": "2012-05-13",
+        "final_loa_date": "2013-06-13",
+        "project_complete": "Yes"
+    },
+    "Demand Energy": {
+        "developer": "Demand Energy",
+        "coned_id": "MC-252671",
+        "borough": "Bronx",
+        "zipcode": "11040",
+        "substation": "Sherman_Creek",
+        "power_kw": "125",
+        "application_date": "2017-01-04",
+        "final_loa_date": "2018-10-03",
+        "project_complete": "Yes"
+    },
+    "Bright Power": {
+        "developer": "Bright Power",
+        "coned_id": "MC-252446",
+        "borough": "Bronx",
+        "zipcode": "10455",
+        "substation": "Bruckner",
+        "power_kw": "18",
+        "application_date": "2017-01-03",
+        "final_loa_date": "2018-10-23",
+        "project_complete": "Yes"
+    },
+    "Green Charge Networks": {
+        "developer": "Green Charge Networks",
+        "coned_id": "1233462",
+        "borough": "Queens",
+        "zipcode": "11377",
+        "substation": "Newtown",
+        "power_kw": "50",
+        "application_date": "2013-04-24",
+        "final_loa_date": "2012-10-29",
+        "project_complete": "Yes"
+    },
+    "Urban Electric Power": {
+        "developer": "Urban Electric Power",
+        "coned_id": "1334879",
+        "borough": "Manhattan",
+        "zipcode": "10031",
+        "substation": "W_110_St_1",
+        "power_kw": "100",
+        "application_date": "2013-08-26",
+        "final_loa_date": "2014-03-31",
+        "project_complete": "Yes"
+    },
+    "Green Charge Networks LLC": {
+        "developer": "Green Charge Networks LLC",
+        "coned_id": "1320309",
+        "borough": "Queens",
+        "zipcode": "11358",
+        "substation": "Corona_2",
+        "power_kw": "50",
+        "application_date": "2012-12-09",
+        "final_loa_date": "2014-02-01",
+        "project_complete": "Yes"
+    },
+    "Hitachi": {
+        "developer": "Hitachi",
+        "coned_id": "1345615",
+        "borough": "Brooklyn",
+        "zipcode": "11220",
+        "substation": "Greenwood",
+        "power_kw": "100",
+        "application_date": "2012-10-05",
+        "final_loa_date": "2013-10-30",
+        "project_complete": "Yes"
+    }
+}
